@@ -75,5 +75,3 @@ Here are some screenshots showcasing Prismetrics in action:
 
 *Developed by Manthan Parmar • MIT License • Data from live market feeds*
 
-```
-```
